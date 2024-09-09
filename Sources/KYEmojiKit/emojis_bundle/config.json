@@ -1,0 +1,53 @@
+{
+    "emojis": [
+        {
+            "key": "E342",
+            "path": "E342.png"
+        },
+        {
+            "key": "E343",
+            "path": "E343.png"
+        },
+        {
+            "key": "E344",
+            "path": "E344.png"
+        },
+        {
+            "key": "E345",
+            "path": "E345.png"
+        },
+        {
+            "key": "E346",
+            "path": "E346.png"
+        },
+        {
+            "key": "E347",
+            "path": "E347.png"
+        },
+        {
+            "key": "E348",
+            "path": "E348.png"
+        },
+        {
+            "key": "E380",
+            "path": "E380.png"
+        },
+        {
+            "key": "E381",
+            "path": "E381.png"
+        },
+        {
+            "key": "F000",
+            "path": "F000.png"
+        },
+        {
+            "key": "F8FF",
+            "path": "F8FF.png"
+        },
+        {
+            "key": "F77A",
+            "path": "F77A.png"
+        }
+    ],
+    "version": 1
+}
