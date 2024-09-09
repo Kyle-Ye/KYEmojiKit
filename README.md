@@ -1,4 +1,4 @@
-# KyBundleManager
+# KYEmojiKit
 
 A demo package to demonstrate how to use custom emoji keyboard in iOS
 
